@@ -1,0 +1,6 @@
+E:\3 курс\РПМ\Лабораторная работа 1\ClassLibrary2\ClassLibrary2\bin\Debug\ClassLibrary2.dll
+E:\3 курс\РПМ\Лабораторная работа 1\ClassLibrary2\ClassLibrary2\bin\Debug\ClassLibrary2.pdb
+E:\3 курс\РПМ\Лабораторная работа 1\ClassLibrary2\ClassLibrary2\obj\Debug\ClassLibrary2.csproj.AssemblyReference.cache
+E:\3 курс\РПМ\Лабораторная работа 1\ClassLibrary2\ClassLibrary2\obj\Debug\ClassLibrary2.csproj.CoreCompileInputs.cache
+E:\3 курс\РПМ\Лабораторная работа 1\ClassLibrary2\ClassLibrary2\obj\Debug\ClassLibrary2.dll
+E:\3 курс\РПМ\Лабораторная работа 1\ClassLibrary2\ClassLibrary2\obj\Debug\ClassLibrary2.pdb
